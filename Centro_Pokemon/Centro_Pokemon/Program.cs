@@ -176,7 +176,7 @@ namespace Centro_Pokemon
             Console.ForegroundColor = ConsoleColor.Black;
             int quantidadeevolucaopokemon = int.Parse(Console.ReadLine());
 
-
+            for (int a = 1; a = quantidadeevolucaopokemon)
 
         }
 
