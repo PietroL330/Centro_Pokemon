@@ -1,0 +1,7 @@
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\bin\Debug\sistema mercadin.exe.config
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\bin\Debug\sistema mercadin.exe
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\bin\Debug\sistema mercadin.pdb
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\obj\Debug\sistema mercadin.csproj.AssemblyReference.cache
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\obj\Debug\sistema mercadin.csproj.CoreCompileInputs.cache
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\obj\Debug\sistema mercadin.exe
+C:\Users\pietro.lsouza\Documents\Centro_Pokemon\sistema mercadin\sistema mercadin\obj\Debug\sistema mercadin.pdb
